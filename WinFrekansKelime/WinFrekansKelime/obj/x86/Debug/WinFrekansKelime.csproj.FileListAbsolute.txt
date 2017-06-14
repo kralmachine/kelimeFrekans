@@ -1,0 +1,8 @@
+C:\Users\aAa\Desktop\WinFrekansKelime\WinFrekansKelime\bin\Debug\WinFrekansKelime.exe
+C:\Users\aAa\Desktop\WinFrekansKelime\WinFrekansKelime\bin\Debug\WinFrekansKelime.pdb
+C:\Users\aAa\Desktop\WinFrekansKelime\WinFrekansKelime\obj\x86\Debug\WinFrekansKelime.Properties.Resources.resources
+C:\Users\aAa\Desktop\WinFrekansKelime\WinFrekansKelime\obj\x86\Debug\WinFrekansKelime.WinFrekansKelime.resources
+C:\Users\aAa\Desktop\WinFrekansKelime\WinFrekansKelime\obj\x86\Debug\WinFrekansKelime.csproj.GenerateResource.Cache
+C:\Users\aAa\Desktop\WinFrekansKelime\WinFrekansKelime\obj\x86\Debug\WinFrekansKelime.exe
+C:\Users\aAa\Desktop\WinFrekansKelime\WinFrekansKelime\obj\x86\Debug\WinFrekansKelime.pdb
+C:\Users\aAa\Desktop\WinFrekansKelime\WinFrekansKelime\obj\x86\Debug\WinFrekansKelime.csprojResolveAssemblyReference.cache
